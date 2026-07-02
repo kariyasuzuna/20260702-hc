@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+    background-color: rgb(168, 8, 8);
+}
+
+
+h2{
+    background-color: #f0f0f0;
+}
+
+
+h2 span{
+    background-color: tomato;
+    color:white;
+    padding: 10px;
+}
+
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+
+.bg-yellow span{
+    background-color: blue;
+    padding: 5px;
+}
+
+.bg-t
+ransparent {
+  background-color: rgba(0, 128, 255, 0.2);
+}
